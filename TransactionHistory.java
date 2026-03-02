@@ -3,4 +3,5 @@ class TransactionHistory {
     private double amount;
     private double balance;
     private Date date;
+    private String accountType;
 }
